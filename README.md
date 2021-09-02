@@ -7,8 +7,9 @@
 - With the help of JavaScript, HTML, and CSS populate the UFO data on the web page. Using text boxes as inputs were used as filter criteria on the data. 
 JavaScript gives makes it easy to accept the filter criteria on the web page. 
 Following criteria used to filter UFO data. 
-1.City 
-2.State
+
+1. City 
+2. State
 3. Country 
 4. Shape  
 
